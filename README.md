@@ -9,7 +9,7 @@
  https://medium.com/@adautobraz/a-universidade-matou-sua-motiva%C3%A7%C3%A3o-5bc46f4f3d8e#.yflpqc2w9
  http://vagnerdutra.com/ferramentas-de-desenvolvimento-e-organizacao/
  http://nomadev.com.br/be-mean-node-js-http/
-
+ http://nomadev.com.br/node-js-o-que-%C3%A9-nvm-e-como-gerenciar-vers%C3%B5es-do-node/
 ## Artigos escritos
 
 ## Palestras assistidas
