@@ -3,13 +3,14 @@
 ## Livros lidos(1)
 1 - Guia Front-end - O caminho das pedras para ser um dev Front-end
 
-## Artigos lidos(4)
+## Artigos lidos(5)
 
- https://medium.com/jedi-js/future-javascript-1-arrow-functions-f44ee4098b30#.fd784rojm
- https://medium.com/@adautobraz/a-universidade-matou-sua-motiva%C3%A7%C3%A3o-5bc46f4f3d8e#.yflpqc2w9
- http://vagnerdutra.com/ferramentas-de-desenvolvimento-e-organizacao/
- http://nomadev.com.br/be-mean-node-js-http/
- http://nomadev.com.br/node-js-o-que-%C3%A9-nvm-e-como-gerenciar-vers%C3%B5es-do-node/
+ * https://medium.com/jedi-js/future-javascript-1-arrow-functions-f44ee4098b30#.fd784rojm
+ * https://medium.com/@adautobraz/a-universidade-matou-sua-motiva%C3%A7%C3%A3o-5bc46f4f3d8e#.yflpqc2w9
+ * http://vagnerdutra.com/ferramentas-de-desenvolvimento-e-organizacao/
+ * http://nomadev.com.br/be-mean-node-js-http/
+ * http://nomadev.com.br/node-js-o-que-%C3%A9-nvm-e-como-gerenciar-vers%C3%B5es-do-node/
+ 
 ## Artigos escritos
 
 ## Palestras assistidas
