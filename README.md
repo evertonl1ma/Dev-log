@@ -14,6 +14,6 @@
 
 ## Artigos escritos
 
-## Palestras assistidas
+## Palestras assistidas(2)
 * [Reduce seu novo melhor amigo - Ju gonçalves] (https://www.youtube.com/watch?v=P9mAnhNFKO4) 
 * [Construindo uma API rest com expressjs e nodejs - William Bruno] (https://www.eventials.com/wbruno.moraes/construindo-uma-api-rest-com-expressjs-nodejs-2/)
