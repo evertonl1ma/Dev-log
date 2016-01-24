@@ -11,6 +11,7 @@
  * http://nomadev.com.br/be-mean-node-js-http/
  * http://nomadev.com.br/node-js-o-que-%C3%A9-nvm-e-como-gerenciar-vers%C3%B5es-do-node/
  * http://code.tutsplus.com/pt/tutorials/24-javascript-best-practices-for-beginners--net-5399
+ * http://www.dianaarnos.com/entry/o-que-a-musica-ensinou-sobre-programacao
 
 ## Artigos escritos
 
