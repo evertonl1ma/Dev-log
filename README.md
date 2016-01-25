@@ -3,7 +3,7 @@
 ## Livros lidos(1)
 1 - Guia Front-end - O caminho das pedras para ser um dev Front-end
 
-## Artigos lidos(7)
+## Artigos lidos(8)
 
  * https://medium.com/jedi-js/future-javascript-1-arrow-functions-f44ee4098b30#.fd784rojm
  * https://medium.com/@adautobraz/a-universidade-matou-sua-motiva%C3%A7%C3%A3o-5bc46f4f3d8e#.yflpqc2w9
@@ -12,7 +12,8 @@
  * http://nomadev.com.br/node-js-o-que-%C3%A9-nvm-e-como-gerenciar-vers%C3%B5es-do-node/
  * http://code.tutsplus.com/pt/tutorials/24-javascript-best-practices-for-beginners--net-5399
  * http://www.dianaarnos.com/entry/o-que-a-musica-ensinou-sobre-programacao
-
+ * http://jordankobellarz.github.io/mongodb/2015/08/15/mentiras-que-lhe-contaram-sobre-o-mongodb.html
+ 
 ## Artigos escritos
 
 ## Palestras assistidas(2)
