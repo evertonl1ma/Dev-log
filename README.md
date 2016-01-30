@@ -1,8 +1,9 @@
 # Resoluções de aprendizado em 2016
 
 ## Livros lidos(2)
-1 - Guia Front-end - O caminho das pedras para ser um dev Front-end
-2 - Web design responsivo - Páginas adaptáveis para todos os dispositivos
+
+* 1 - Guia Front-end - O caminho das pedras para ser um dev Front-end
+* 2 - Web design responsivo - Páginas adaptáveis para todos os dispositivos
 
 ## Artigos lidos(10)
 
