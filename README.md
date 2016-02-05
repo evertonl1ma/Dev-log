@@ -17,6 +17,7 @@
  * http://jordankobellarz.github.io/mongodb/2015/08/15/mentiras-que-lhe-contaram-sobre-o-mongodb.html
  * http://nomadev.com.br/node-js-upload-de-imagem-arquivo/
  * https://www.linkedin.com/pulse/por-que-voc%C3%AA-deve-parar-de-se-importar-com-o-os-outros-ana-colombia
+ * http://www.capsaicina.com.br/novas-tecnologias-em-front-end/
  
 ## Artigos escritos
 
