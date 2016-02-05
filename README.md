@@ -5,7 +5,7 @@
  1. Guia Front-end - O caminho das pedras para ser um dev Front-end
  2. Web design responsivo - Páginas adaptáveis para todos os dispositivos
 
-## Ler 366 artigos(11)
+## Ler 366 artigos(12)
 
  * https://medium.com/jedi-js/future-javascript-1-arrow-functions-f44ee4098b30#.fd784rojm
  * https://medium.com/@adautobraz/a-universidade-matou-sua-motiva%C3%A7%C3%A3o-5bc46f4f3d8e#.yflpqc2w9
@@ -18,6 +18,7 @@
  * http://nomadev.com.br/node-js-upload-de-imagem-arquivo/
  * https://www.linkedin.com/pulse/por-que-voc%C3%AA-deve-parar-de-se-importar-com-o-os-outros-ana-colombia
  * http://www.capsaicina.com.br/novas-tecnologias-em-front-end/
+ * http://www.philippeassis.com/alert-e-confirm-personalizado-sem-jquery/#more-24
  
 ## Artigos escritos
 
