@@ -21,6 +21,7 @@
  * http://www.philippeassis.com/alert-e-confirm-personalizado-sem-jquery/#more-24
  * https://medium.com/@_jh3y/how-to-pure-css-masonry-layouts-a8ede07ba31a#.ufb1ghu7o
  * http://tableless.com.br/exercicios-simples-de-javascript-para-entrevista/
+ * https://medium.com/design-contaazul/simplificar-ajuda-sempre-ea17d5feb92a#.59u8fxepb
  
 ## Artigos escritos
 
