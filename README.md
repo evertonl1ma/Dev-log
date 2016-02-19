@@ -6,7 +6,7 @@
  2. Web design responsivo - Páginas adaptáveis para todos os dispositivos
  3. Javascript furtivo
 
-## Ler 366 artigos(21)
+## Ler 366 artigos(22)
 
  * https://medium.com/jedi-js/future-javascript-1-arrow-functions-f44ee4098b30#.fd784rojm
  * https://medium.com/@adautobraz/a-universidade-matou-sua-motiva%C3%A7%C3%A3o-5bc46f4f3d8e#.yflpqc2w9
@@ -29,9 +29,11 @@
  * https://medium.com/@thedon/precisamos-falar-sobre-os-novos-desenvolvedores-11ae73af8424#.k9f7ghe3i
  * https://medium.com/@thedon/quando-novos-desenvolvedores-chegam-b38c0ddd6ae0#.m590lew42
  * http://tableless.com.br/exercicios-simples-de-javascript-para-entrevista/
+ * https://medium.com/@zenorocha/o-que-voc%C3%AA-est%C3%A1-esperando-f58bbc970054#.l0mrxpgxp
  
 ## Artigos escritos
 
-## Palestras assistidas(2)
+## Palestras assistidas(3)
 * [Reduce seu novo melhor amigo - Ju gonçalves] (https://www.youtube.com/watch?v=P9mAnhNFKO4) 
 * [Construindo uma API rest com expressjs e nodejs - William Bruno] (https://www.eventials.com/wbruno.moraes/construindo-uma-api-rest-com-expressjs-nodejs-2/)
+* [Javascript secrets - Fernando daciuk] (https://www.youtube.com/watch?v=7Ur9zN2vMcs&feature=youtu.be)
