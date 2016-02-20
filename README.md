@@ -6,7 +6,7 @@
  2. Web design responsivo - Páginas adaptáveis para todos os dispositivos
  3. Javascript furtivo
 
-## Ler 366 artigos(27)
+## Ler 366 artigos(28)
 
  1. https://medium.com/jedi-js/future-javascript-1-arrow-functions-f44ee4098b30#.fd784rojm
  2. https://medium.com/@adautobraz/a-universidade-matou-sua-motiva%C3%A7%C3%A3o-5bc46f4f3d8e#.yflpqc2w9
@@ -35,6 +35,7 @@
  25. http://lounge.obviousmag.org/iande_albuquerque/2016/01/voce-nao-merece-alguem-erra-no-momento-certo.html?utm_source=obvious&utm_medium=Article_Column&utm_campaign=Popular_Articles
  26. http://obviousmag.org/cinema_pensante/2016/02/terminar-uma-relacao-e-diferente-de-destruir-a-pessoa-que-esta-sendo-deixada.html?utm_source=obvious&utm_medium=Article_Column&utm_campaign=Popular_Articles
  27. https://medium.com/@leocavalcante/gera%C3%A7%C3%A3o-toddynho-no-mundo-da-programa%C3%A7%C3%A3o-f8536117afbc#.5pueaa15v
+ 28. http://www.infoq.com/br/news/2015/09/great-front-end-developer
  
 ## Artigos escritos
 
