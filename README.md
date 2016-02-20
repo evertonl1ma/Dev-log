@@ -34,6 +34,7 @@
  24. http://obviousmag.org/yes/2015/03/nao-basta-so-pedir-desculpa-e-preciso-algo-mais.html?utm_source=obvious&utm_medium=Article_Column&utm_campaign=Popular_Articles
  25. http://lounge.obviousmag.org/iande_albuquerque/2016/01/voce-nao-merece-alguem-erra-no-momento-certo.html?utm_source=obvious&utm_medium=Article_Column&utm_campaign=Popular_Articles
  26. http://obviousmag.org/cinema_pensante/2016/02/terminar-uma-relacao-e-diferente-de-destruir-a-pessoa-que-esta-sendo-deixada.html?utm_source=obvious&utm_medium=Article_Column&utm_campaign=Popular_Articles
+ 27. https://medium.com/@leocavalcante/gera%C3%A7%C3%A3o-toddynho-no-mundo-da-programa%C3%A7%C3%A3o-f8536117afbc#.5pueaa15v
  
 ## Artigos escritos
 
