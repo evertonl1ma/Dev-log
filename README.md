@@ -41,7 +41,8 @@
  
 ## Artigos escritos
 
-## Palestras assistidas(3)
-* [Reduce seu novo melhor amigo - Ju gonçalves] (https://www.youtube.com/watch?v=P9mAnhNFKO4) 
-* [Construindo uma API rest com expressjs e nodejs - William Bruno] (https://www.eventials.com/wbruno.moraes/construindo-uma-api-rest-com-expressjs-nodejs-2/)
-* [Javascript secrets - Fernando daciuk] (https://www.youtube.com/watch?v=7Ur9zN2vMcs&feature=youtu.be)
+## Palestras assistidas(4)
+1. [Reduce seu novo melhor amigo - Ju gonçalves] (https://www.youtube.com/watch?v=P9mAnhNFKO4) 
+2. [Construindo uma API rest com expressjs e nodejs - William Bruno] (https://www.eventials.com/wbruno.moraes/construindo-uma-api-rest-com-expressjs-nodejs-2/)
+3. [Javascript secrets - Fernando daciuk] (https://www.youtube.com/watch?v=7Ur9zN2vMcs&feature=youtu.be)
+4. [Utilizando Javascript no servidor com Node JS] (https://www.youtube.com/watch?v=qmZXcHtzy3k)
