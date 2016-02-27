@@ -6,7 +6,7 @@
  2. Web design responsivo - Páginas adaptáveis para todos os dispositivos
  3. Javascript furtivo
 
-## Ler 366 artigos(34)
+## Ler 366 artigos(35)
 
  1. https://medium.com/jedi-js/future-javascript-1-arrow-functions-f44ee4098b30#.fd784rojm
  2. https://medium.com/@adautobraz/a-universidade-matou-sua-motiva%C3%A7%C3%A3o-5bc46f4f3d8e#.yflpqc2w9
@@ -42,6 +42,7 @@
  32. https://medium.com/@jackiehluo/a-year-of-code-c7bc1d4460cb#.mq28u05ll
  33. https://medium.com/@andersoonfront/tentando-corrigir-minhas-defici%C3%AAncias-9138ee858850#.5p7d3x99o
  34. https://medium.freecodecamp.com/mistakes-i-made-while-learning-to-code-2a7e3ace092e#.slrwt1fxp
+ 35. http://blog.geekhunter.com.br/7-linguagens-de-programacao-e-framework-mais-buscados-por-empresas/?utm_source=facebook&utm_medium=gruposdevs&utm_campaign=7linguagensmaisbuscadas
  
 ## Artigos escritos
 
