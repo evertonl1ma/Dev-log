@@ -6,7 +6,7 @@
  2. Web design responsivo - Páginas adaptáveis para todos os dispositivos
  3. Javascript furtivo
 
-## Ler 366 artigos(50)
+## Ler 366 artigos(51)
 
  1. https://medium.com/jedi-js/future-javascript-1-arrow-functions-f44ee4098b30#.fd784rojm
  2. https://medium.com/@adautobraz/a-universidade-matou-sua-motiva%C3%A7%C3%A3o-5bc46f4f3d8e#.yflpqc2w9
@@ -58,6 +58,8 @@
  48. https://medium.com/@marciobueno/a-import%C3%A2ncia-do-adulto-respons%C3%A1vel-b8bc91172fc3#.718lk5uq6
  49. https://medium.com/@vedovelli/experi%C3%AAncia-s%C3%B3-se-obt%C3%A9m-fazendo-64ba87540ebe#.6qbo825hl
  50. https://github.com/ericdouglas/traduz-ai/blob/master/javascript/002-objetos-js-em-detalhe.md
+ 51. https://braziljs.org/blog/milhares-de-projetos-baseados-no-npm-foram-quebrados/
+ 52. https://medium.com/perestroika-blog/porque-a-ind%C3%BAstria-do-empreendedorismo-de-palco-ir%C3%A1-destruir-voc%C3%AA-3e18309ab47f#.encjvwyzq
  
 ## Artigos escritos
 
