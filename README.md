@@ -6,7 +6,7 @@
  2. Web design responsivo - Páginas adaptáveis para todos os dispositivos
  3. Javascript furtivo
 
-## Ler 366 artigos(58)
+## Ler 366 artigos(59)
 
  1. https://medium.com/jedi-js/future-javascript-1-arrow-functions-f44ee4098b30#.fd784rojm
  2. https://medium.com/@adautobraz/a-universidade-matou-sua-motiva%C3%A7%C3%A3o-5bc46f4f3d8e#.yflpqc2w9
@@ -66,6 +66,7 @@
  56. http://programadorobjetivo.co/10-dicas-cruciais-na-carreira-de-um-desenvolvedor/
  57. http://programadorobjetivo.co/7-atitudes-para-exceder-as-expectativas-como-desenvolvedor/
  58. https://medium.com/@nicholasess/devo-estudar-angular-2-1fed6b69cda3#.btvn3pou4
+ 59. https://medium.com/@anapaulagomes/quem-n%C3%A3o-erra-n%C3%A3o-acerta-7123a584fde0#.avwj05kkx
  
 ## Artigos escritos
 
