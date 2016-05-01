@@ -6,7 +6,7 @@
  2. Web design responsivo - Páginas adaptáveis para todos os dispositivos
  3. Javascript furtivo
 
-## Ler 366 artigos(74)
+## Ler 366 artigos(75)
 
  1. https://medium.com/jedi-js/future-javascript-1-arrow-functions-f44ee4098b30#.fd784rojm
  2. https://medium.com/@adautobraz/a-universidade-matou-sua-motiva%C3%A7%C3%A3o-5bc46f4f3d8e#.yflpqc2w9
@@ -82,6 +82,7 @@
  72. http://www.igorapa.com/fui-aprender-ingles.html
  73. http://danielfilho.github.io/2014/08/20/queime-seus-idolos/
  74. http://gabsferreira.com/mudando-o-rumo-da-minha-carreira-fazendo-o-que-ninguem-estava-fazendo/
+ 75. http://www.sabiaspalavras.com/o-alto-preco-de-viver-longe-de-casa-2/#ixzz3z1vJlYWh
  
 ## Artigos escritos
 
