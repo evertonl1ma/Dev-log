@@ -5,6 +5,7 @@
  1. Guia Front-end - O caminho das pedras para ser um dev Front-end
  2. Web design responsivo - Páginas adaptáveis para todos os dispositivos
  3. Javascript furtivo
+ 4. Eloquent Javascript
 
 ## Ler 366 artigos(75)
 
