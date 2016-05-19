@@ -7,7 +7,7 @@
  3. Javascript furtivo
  4. Eloquent Javascript
 
-## Ler 366 artigos(77)
+## Ler 366 artigos(78)
 
  1. https://medium.com/jedi-js/future-javascript-1-arrow-functions-f44ee4098b30#.fd784rojm
  2. https://medium.com/@adautobraz/a-universidade-matou-sua-motiva%C3%A7%C3%A3o-5bc46f4f3d8e#.yflpqc2w9
@@ -86,6 +86,7 @@
  75. http://www.sabiaspalavras.com/o-alto-preco-de-viver-longe-de-casa-2/#ixzz3z1vJlYWh
  76. http://www.fidelis.work/como-eu-usei-o-cartao-de-credito-do-ceo-do-trampos-co-para-pagar-minha-assinatura-premium/
  77. https://medium.freecodecamp.com/from-zero-to-front-end-hero-part-1-7d4f7f0bff02#.9iohfa7za
+ 78. http://willianjusten.com.br/mudando-sua-vida-atraves-de-projetos-paralelos/
  
 ## Artigos escritos
 
