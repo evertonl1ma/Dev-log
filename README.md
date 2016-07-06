@@ -7,7 +7,7 @@
  3. Javascript furtivo
  4. Eloquent Javascript
 
-## Ler 366 artigos(86)
+## Ler 366 artigos(87)
 
  1. https://medium.com/jedi-js/future-javascript-1-arrow-functions-f44ee4098b30#.fd784rojm
  2. https://medium.com/@adautobraz/a-universidade-matou-sua-motiva%C3%A7%C3%A3o-5bc46f4f3d8e#.yflpqc2w9
@@ -95,6 +95,7 @@
  84. http://nomadev.com.br/ideia-javascript-isomorfico-universal/
  85. http://www.papodehomem.com.br/o-sucesso-tardio-e-o-nunca-e-tarde-para-aprender?utm_content=buffere5e80&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer
  86. http://blog.caelum.com.br/pixels-pixels-ou-pixels-dicas-de-web-mobile-com-viewport/
+ 87. https://medium.com/@afonsopacifer/um-relato-sobre-como-foi-a-frontweeksp-para-um-comedor-de-biscoito-85e936052bd#.6fwl6iyrf
  
 ## Artigos escritos
 
