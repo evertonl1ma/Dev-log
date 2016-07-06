@@ -7,7 +7,7 @@
  3. Javascript furtivo
  4. Eloquent Javascript
 
-## Ler 366 artigos(88)
+## Ler 366 artigos(89)
 
  1. https://medium.com/jedi-js/future-javascript-1-arrow-functions-f44ee4098b30#.fd784rojm
  2. https://medium.com/@adautobraz/a-universidade-matou-sua-motiva%C3%A7%C3%A3o-5bc46f4f3d8e#.yflpqc2w9
@@ -98,6 +98,7 @@
  87. https://medium.com/@afonsopacifer/um-relato-sobre-como-foi-a-frontweeksp-para-um-comedor-de-biscoito-85e936052bd#.6fwl6iyrf
  88. https://leandrooriente.com/nao-tenho-portfolio-porque-nao-tenho-clientes/
  89. http://cleysonlb.github.io/Como-se-tornar-um-front-end-MVP/
+ 90. http://cleysonlb.github.io/O-Inicio/
  
 ## Artigos escritos
 
