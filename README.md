@@ -97,6 +97,7 @@
  86. http://blog.caelum.com.br/pixels-pixels-ou-pixels-dicas-de-web-mobile-com-viewport/
  87. https://medium.com/@afonsopacifer/um-relato-sobre-como-foi-a-frontweeksp-para-um-comedor-de-biscoito-85e936052bd#.6fwl6iyrf
  88. https://leandrooriente.com/nao-tenho-portfolio-porque-nao-tenho-clientes/
+ 89. http://cleysonlb.github.io/Como-se-tornar-um-front-end-MVP/
  
 ## Artigos escritos
 
