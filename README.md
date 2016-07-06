@@ -7,7 +7,7 @@
  3. Javascript furtivo
  4. Eloquent Javascript
 
-## Ler 366 artigos(92)
+## Ler 366 artigos(93)
 
  1. https://medium.com/jedi-js/future-javascript-1-arrow-functions-f44ee4098b30#.fd784rojm
  2. https://medium.com/@adautobraz/a-universidade-matou-sua-motiva%C3%A7%C3%A3o-5bc46f4f3d8e#.yflpqc2w9
@@ -101,6 +101,7 @@
  90. http://cleysonlb.github.io/O-Inicio/
  91. http://delas.ig.com.br/comportamento/quer+mudar+algo+na+sua+vida+entao+tome+uma+atitude/n1596844435815.html
  92. http://www.itexto.net/devkico/?p=2500
+ 93. http://devsamurai.com.br/estou-velho-para-aprender-programar-o-que-eu-faco/
  
 ## Artigos escritos
 
