@@ -106,7 +106,8 @@
  95. http://nomadev.com.br/n%C3%A3o-seja-mais-1-suissa/
  96. https://medium.com/@mjcoffeeholick/como-sabotei-minha-carreira-826ea63b9ed1#.ewlwg89jr
  97. http://tableless.com.br/o-que-e-autoridade-dominio-ou-domain-authority/
- 98. https://medium.com/the-mission/lose-yourself-to-find-yourself-9aef6016d933#.uhnoinzf8
+ 98. https://medium.com/the-mission/lose-yourself-to-find-yourself-9aef6016d933#.uhnoinzf8 
+ 99. https://diessi.ca/blog/o-que-ha-de-errado-com-a-cultura-jquery/
  
 ## Artigos escritos
 
