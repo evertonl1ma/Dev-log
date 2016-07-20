@@ -7,7 +7,7 @@
  3. Javascript furtivo
  4. Eloquent Javascript
 
-## Ler 366 artigos(100)
+## Ler 366 artigos(101)
 
  1. https://medium.com/jedi-js/future-javascript-1-arrow-functions-f44ee4098b30#.fd784rojm
  2. https://medium.com/@adautobraz/a-universidade-matou-sua-motiva%C3%A7%C3%A3o-5bc46f4f3d8e#.yflpqc2w9
@@ -108,7 +108,8 @@
  97. http://tableless.com.br/o-que-e-autoridade-dominio-ou-domain-authority/
  98. https://medium.com/the-mission/lose-yourself-to-find-yourself-9aef6016d933#.uhnoinzf8 
  99. https://diessi.ca/blog/o-que-ha-de-errado-com-a-cultura-jquery/
- 100. https://medium.com/brasil/conselhos-de-um-velho-programador-antissocial-e-ranzinza-3b32f7ba4561#.9743b8ob5  
+ 100. https://medium.com/brasil/conselhos-de-um-velho-programador-antissocial-e-ranzinza-3b32f7ba4561#.9743b8ob5
+ 101. http://melhorcodigo.com/boas-praticas/voce-e-mesmo-um-programador-ou-apenas-um-bom-googler/
  
 ## Artigos escritos
 
