@@ -108,7 +108,7 @@
  97. http://tableless.com.br/o-que-e-autoridade-dominio-ou-domain-authority/
  98. https://medium.com/the-mission/lose-yourself-to-find-yourself-9aef6016d933#.uhnoinzf8 
  99. https://diessi.ca/blog/o-que-ha-de-errado-com-a-cultura-jquery/
- 100. https://medium.com/brasil/conselhos-de-um-velho-programador-antissocial-e-ranzinza-3b32f7ba4561#.9743b8ob5
+ 100. https://medium.com/brasil/conselhos-de-um-velho-programador-antissocial-e-ranzinza-3b32f7ba4561#.9743b8ob5  
  
 ## Artigos escritos
 
