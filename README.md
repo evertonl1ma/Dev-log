@@ -7,7 +7,7 @@
  3. Javascript furtivo
  4. Eloquent Javascript
 
-## Ler 366 artigos(104)
+## Ler 366 artigos(105)
 
  1. https://medium.com/jedi-js/future-javascript-1-arrow-functions-f44ee4098b30#.fd784rojm
  2. https://medium.com/@adautobraz/a-universidade-matou-sua-motiva%C3%A7%C3%A3o-5bc46f4f3d8e#.yflpqc2w9
@@ -113,6 +113,7 @@
  102. https://medium.com/@guilhermeviebig/seu-desenvolvedor-%C3%A9-pedreiro-ajudante-ou-mestre-de-obras-ec1cee5891e9#.crupcnjm7
  103. http://nomadev.com.br/largue-o-jquery-agora/
  104. https://medium.com/nossa-coletividad/sobre-inspirar-pessoas-com-suas-iniciativas-6533790fed6a#.8q119w74b
+ 105. https://diessi.ca/blog/o-que-ha-de-errado-com-a-cultura-jquery/
  
 ## Artigos escritos
 
