@@ -7,7 +7,7 @@
  3. Javascript furtivo
  4. Eloquent Javascript
 
-## Artigos lidos(111)
+## Artigos lidos(112)
 
  1. https://medium.com/jedi-js/future-javascript-1-arrow-functions-f44ee4098b30#.fd784rojm
  2. https://medium.com/@adautobraz/a-universidade-matou-sua-motiva%C3%A7%C3%A3o-5bc46f4f3d8e#.yflpqc2w9
@@ -120,6 +120,7 @@
  109. https://medium.com/@ogilvieira/como-aprender-mais-r%C3%A1pido-ed671efdcf47#.enpzvzyv7
  110. https://medium.com/@ogilvieira/5-coisas-sobre-ser-autodidata-que-eu-diria-a-mim-mesmo-se-pudesse-voltar-no-tempo-de3006b1e61b#.som369pag
  111. https://willianjusten.com.br/como-melhorar-meu-seo/
+ 112. https://willianjusten.com.br/social-meta-tags/
  
 ## Artigos escritos
 
