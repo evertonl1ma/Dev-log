@@ -7,7 +7,7 @@
  3. Javascript furtivo
  4. Eloquent Javascript
 
-## Artigos lidos(113)
+## Artigos lidos(114)
 
  1. https://medium.com/jedi-js/future-javascript-1-arrow-functions-f44ee4098b30#.fd784rojm
  2. https://medium.com/@adautobraz/a-universidade-matou-sua-motiva%C3%A7%C3%A3o-5bc46f4f3d8e#.yflpqc2w9
@@ -122,6 +122,7 @@
  111. https://willianjusten.com.br/como-melhorar-meu-seo/
  112. https://willianjusten.com.br/social-meta-tags/
  113. http://blog.livecoding.tv/2016/07/11/10-mandamentos-para-desenvolvedores-alcancarem-o-equilibrio-entre-vida-pessoal-e-profissional/  
+ 114. https://woliveiras.com.br/posts/Devolva-para-as-comunidades/
  
 ## Artigos escritos
 
