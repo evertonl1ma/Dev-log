@@ -121,7 +121,7 @@
  110. https://medium.com/@ogilvieira/5-coisas-sobre-ser-autodidata-que-eu-diria-a-mim-mesmo-se-pudesse-voltar-no-tempo-de3006b1e61b#.som369pag
  111. https://willianjusten.com.br/como-melhorar-meu-seo/
  112. https://willianjusten.com.br/social-meta-tags/
- 113. http://blog.livecoding.tv/2016/07/11/10-mandamentos-para-desenvolvedores-alcancarem-o-equilibrio-entre-vida-pessoal-e-profissional/
+ 113. http://blog.livecoding.tv/2016/07/11/10-mandamentos-para-desenvolvedores-alcancarem-o-equilibrio-entre-vida-pessoal-e-profissional/  
  
 ## Artigos escritos
 
