@@ -7,7 +7,7 @@
  3. Javascript furtivo
  4. Eloquent Javascript
 
-## Artigos lidos(115)
+## Artigos lidos(116)
 
  1. https://medium.com/jedi-js/future-javascript-1-arrow-functions-f44ee4098b30#.fd784rojm
  2. https://medium.com/@adautobraz/a-universidade-matou-sua-motiva%C3%A7%C3%A3o-5bc46f4f3d8e#.yflpqc2w9
@@ -124,6 +124,7 @@
  113. http://blog.livecoding.tv/2016/07/11/10-mandamentos-para-desenvolvedores-alcancarem-o-equilibrio-entre-vida-pessoal-e-profissional/  
  114. https://woliveiras.com.br/posts/Devolva-para-as-comunidades/
  115. http://blog.livecoding.tv/2016/07/26/php-esta-morto/
+ 116. http://tableless.com.br/programacao-funcional-em-javascript-implementando-curry-e-compose-com-bind-e-reduce/?utm_medium=twitter
  
 ## Artigos escritos
 
