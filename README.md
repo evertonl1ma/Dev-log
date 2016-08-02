@@ -7,7 +7,7 @@
  3. Javascript furtivo
  4. Eloquent Javascript
 
-## Artigos lidos(118)
+## Artigos lidos(119)
 
  1. https://medium.com/jedi-js/future-javascript-1-arrow-functions-f44ee4098b30#.fd784rojm
  2. https://medium.com/@adautobraz/a-universidade-matou-sua-motiva%C3%A7%C3%A3o-5bc46f4f3d8e#.yflpqc2w9
@@ -127,6 +127,7 @@
  116. http://tableless.com.br/programacao-funcional-em-javascript-implementando-curry-e-compose-com-bind-e-reduce/?utm_medium=twitter
  117. http://www.kadunew.com/blog/html/html5-acessibilidade-com-o-atributo-accesskey
  118. http://lucianoratamero.github.io/blog/a-jquery-nao-e-a-vila-voce-e-uma-discussao-sobre-o-uso-da-jquery-em-grandes-projetos/
+ 119. http://www.devmedia.com.br/utilizando-os-custom-data-attributes-da-html5/28040
  
 ## Artigos escritos
 
