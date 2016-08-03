@@ -7,7 +7,7 @@
  3. Javascript furtivo
  4. Eloquent Javascript
 
-## Artigos lidos(122)
+## Artigos lidos(123)
 
  1. https://medium.com/jedi-js/future-javascript-1-arrow-functions-f44ee4098b30#.fd784rojm
  2. https://medium.com/@adautobraz/a-universidade-matou-sua-motiva%C3%A7%C3%A3o-5bc46f4f3d8e#.yflpqc2w9
@@ -131,6 +131,7 @@
  120. https://www.sitepoint.com/cool-things-codepen-javascript/
  121. https://medium.com/@pauladiniz/inseguran%C3%A7a-e-open-source-fd7f21b58a1e#.jceq4op3v
  122. https://medium.com/@pauladiniz/dando-precinho-pro-seu-projetinho-9e906477db59#.kvyn3toyk
+ 123. https://medium.com/@acmello/pare-de-consumir-conteudo-257d1f3765fa#.3ihbvhs2z
  
 ## Artigos escritos
 
