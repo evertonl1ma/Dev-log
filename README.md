@@ -7,7 +7,7 @@
  3. Javascript furtivo
  4. Eloquent Javascript
 
-## Artigos lidos(124)
+## Artigos lidos(125)
 
  1. https://medium.com/jedi-js/future-javascript-1-arrow-functions-f44ee4098b30#.fd784rojm
  2. https://medium.com/@adautobraz/a-universidade-matou-sua-motiva%C3%A7%C3%A3o-5bc46f4f3d8e#.yflpqc2w9
@@ -133,6 +133,7 @@
  122. https://medium.com/@pauladiniz/dando-precinho-pro-seu-projetinho-9e906477db59#.kvyn3toyk
  123. https://medium.com/@acmello/pare-de-consumir-conteudo-257d1f3765fa#.3ihbvhs2z
  124. https://medium.com/@acmello/como-se-dar-bem-em-entrevistas-de-emprego-c466439437d#.5qnpbgufq
+ 125. https://medium.com/@acmello/dando-um-passo-pra-tr%C3%A1s-c68bb6e5f5a1#.63dk0bhr2
  
 ## Artigos escritos
 
