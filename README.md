@@ -7,7 +7,7 @@
  3. Javascript furtivo
  4. Eloquent Javascript
 
-## Artigos lidos(127)
+## Artigos lidos(128)
 
  1. https://medium.com/jedi-js/future-javascript-1-arrow-functions-f44ee4098b30#.fd784rojm
  2. https://medium.com/@adautobraz/a-universidade-matou-sua-motiva%C3%A7%C3%A3o-5bc46f4f3d8e#.yflpqc2w9
@@ -136,6 +136,7 @@
  125. https://medium.com/@acmello/dando-um-passo-pra-tr%C3%A1s-c68bb6e5f5a1#.63dk0bhr2
  126. https://medium.com/@acmello/como-a-depress%C3%A3o-me-tornou-uma-pessoa-melhor-6d6e9c2b6ebb#.geo0yitel
  127. https://medium.com/@acmello/ansiedade-101-c4699b56f06a#.milrov5pw
+ 128. https://www.sitepoint.com/dom-tips-techniques-parent-child-siblings/
  
 ## Artigos escritos
 
