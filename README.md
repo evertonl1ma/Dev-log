@@ -7,7 +7,7 @@
  3. Javascript furtivo
  4. Eloquent Javascript
 
-## Artigos lidos(130)
+## Artigos lidos(131)
 
  1. https://medium.com/jedi-js/future-javascript-1-arrow-functions-f44ee4098b30#.fd784rojm
  2. https://medium.com/@adautobraz/a-universidade-matou-sua-motiva%C3%A7%C3%A3o-5bc46f4f3d8e#.yflpqc2w9
@@ -139,6 +139,7 @@
  128. https://www.sitepoint.com/dom-tips-techniques-parent-child-siblings/
  129. https://medium.com/@cristofersousa/full-stack-developer-como-me-tornar-um-5c9d23765461#.8gocb784g
  130. http://concordde.net/2016/07/18/7-dificuldades-na-sua-carreira/
+ 131. http://concordde.net/2016/03/31/como-ser-um-bom-programador-por-que-o-inicio-e-tao-dificil/
  
 ## Artigos escritos
 
