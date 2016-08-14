@@ -7,7 +7,7 @@
  3. Javascript furtivo
  4. Eloquent Javascript
 
-## Artigos lidos(136)
+## Artigos lidos(137)
 
  1. https://medium.com/jedi-js/future-javascript-1-arrow-functions-f44ee4098b30#.fd784rojm
  2. https://medium.com/@adautobraz/a-universidade-matou-sua-motiva%C3%A7%C3%A3o-5bc46f4f3d8e#.yflpqc2w9
@@ -145,6 +145,7 @@
  134. https://udgwebdev.com/escrevendo-javascript-melhor-parte-4
  135. http://nomadev.com.br/node-js-aprendendo-um-pouco-de-funcional-com-estatistica/
  136. http://nomadev.com.br/criando-array-de-forma-marota-com-es6/
+ 137. http://www.felipefialho.com/blog/2016/do-zero-a-heroi-do-front-end-parte-2
  
 ## Artigos escritos
 
