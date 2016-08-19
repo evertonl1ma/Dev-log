@@ -7,7 +7,7 @@
  3. Javascript furtivo
  4. Eloquent Javascript
 
-## Artigos lidos(142)
+## Artigos lidos(143)
 
  1. https://medium.com/jedi-js/future-javascript-1-arrow-functions-f44ee4098b30#.fd784rojm
  2. https://medium.com/@adautobraz/a-universidade-matou-sua-motiva%C3%A7%C3%A3o-5bc46f4f3d8e#.yflpqc2w9
@@ -151,6 +151,7 @@
  140. http://tableless.com.br/file-api-trabalhando-com-arquivos-locais-usando-javascript/
  141. http://youmightnotneedjquery.com/
  142. https://www.sitepoint.com/javascript-object-creation-patterns-best-practises/
+ 143. http://www.galirows.com.br/meublog/programacao/material-complementar/texto-programacao-e-raciocinio-logico/
  
 ## Artigos escritos
 
