@@ -153,6 +153,7 @@
  142. https://www.sitepoint.com/javascript-object-creation-patterns-best-practises/
  143. http://www.galirows.com.br/meublog/programacao/material-complementar/texto-programacao-e-raciocinio-logico/
  144. https://medium.com/@marcosflorencio/progressive-web-apps-futuro-b1ea15277aeb#.51euauvem
+ 145. http://raphaklaus.com/artigos/callbacks-from-hell/
  
 ## Artigos escritos
 
