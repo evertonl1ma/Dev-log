@@ -164,4 +164,4 @@
 2. [Construindo uma API rest com expressjs e nodejs - William Bruno] (https://www.eventials.com/wbruno.moraes/construindo-uma-api-rest-com-expressjs-nodejs-2/)
 3. [Javascript secrets - Fernando daciuk] (https://www.youtube.com/watch?v=7Ur9zN2vMcs&feature=youtu.be)
 4. [Utilizando Javascript no servidor com Node JS -  Paulo Diovani Gonçalves] (https://www.youtube.com/watch?v=qmZXcHtzy3k)
-5. [CSS Secret's - Priscila Negreiros] (https://www.youtube.com/watch?v=h4imM7p_FiQ)
+5. [CSS Secret's - Priscila Negreiros] (https://www.youtube.com/watch?v=h4imM7p_FiQ)  
