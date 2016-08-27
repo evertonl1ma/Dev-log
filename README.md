@@ -155,7 +155,7 @@
  143. http://www.galirows.com.br/meublog/programacao/material-complementar/texto-programacao-e-raciocinio-logico/
  144. https://medium.com/@marcosflorencio/progressive-web-apps-futuro-b1ea15277aeb#.51euauvem
  145. http://raphaklaus.com/artigos/callbacks-from-hell/
- 146. http://gabsferreira.com/ja-se-sentiu-um-impostor-eu-tambem/
+ 146. http://gabsferreira.com/ja-se-sentiu-um-impostor-eu-tambem/         
  
 ## Artigos escritos
 
