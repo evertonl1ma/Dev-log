@@ -8,7 +8,7 @@
  4. Eloquent Javascript
  5. Coletânea Front-end
 
-## Artigos lidos(146)
+## Artigos lidos(147)
 
  1. https://medium.com/jedi-js/future-javascript-1-arrow-functions-f44ee4098b30#.fd784rojm
  2. https://medium.com/@adautobraz/a-universidade-matou-sua-motiva%C3%A7%C3%A3o-5bc46f4f3d8e#.yflpqc2w9
@@ -155,7 +155,8 @@
  143. http://www.galirows.com.br/meublog/programacao/material-complementar/texto-programacao-e-raciocinio-logico/
  144. https://medium.com/@marcosflorencio/progressive-web-apps-futuro-b1ea15277aeb#.51euauvem
  145. http://raphaklaus.com/artigos/callbacks-from-hell/
- 146. http://gabsferreira.com/ja-se-sentiu-um-impostor-eu-tambem/         
+ 146. http://gabsferreira.com/ja-se-sentiu-um-impostor-eu-tambem/
+ 147. http://filipececcon.com.br/profissional/o-que-fazer-quando-alguem-tem-baixa-produtividade/
  
 ## Artigos escritos
 
