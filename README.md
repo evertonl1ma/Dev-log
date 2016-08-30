@@ -157,7 +157,7 @@
  145. http://raphaklaus.com/artigos/callbacks-from-hell/
  146. http://gabsferreira.com/ja-se-sentiu-um-impostor-eu-tambem/
  147. http://filipececcon.com.br/profissional/o-que-fazer-quando-alguem-tem-baixa-produtividade/
- 148. http://blog.taller.net.br/entendendo-processo-renderizacao-pagina-web/
+ 148. http://blog.taller.net.br/entendendo-processo-renderizacao-pagina-web/   
  
 ## Artigos escritos
 
