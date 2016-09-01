@@ -8,7 +8,7 @@
  4. Eloquent Javascript
  5. Coletânea Front-end
 
-## Artigos lidos(150)
+## Artigos lidos(151)
 
  1. https://medium.com/jedi-js/future-javascript-1-arrow-functions-f44ee4098b30#.fd784rojm
  2. https://medium.com/@adautobraz/a-universidade-matou-sua-motiva%C3%A7%C3%A3o-5bc46f4f3d8e#.yflpqc2w9
@@ -160,6 +160,7 @@
  148. http://blog.taller.net.br/entendendo-processo-renderizacao-pagina-web/
  149. https://willianjusten.com.br/achievement-concluido-braziljs/
  150. https://blog.frontux.com/pare-de-chutar-e-aprenda-as-propriedades-css-de-posicionamento-603154655121#.zck18gjxd
+ 151. https://blog.codecasts.com.br/single-page-applications-onde-vivem-e-o-que-comem-4fc9a44f3de#.mg4pdy5r5
  
 ## Artigos escritos
 
