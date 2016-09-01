@@ -146,7 +146,7 @@
  134. https://udgwebdev.com/escrevendo-javascript-melhor-parte-4
  135. http://nomadev.com.br/node-js-aprendendo-um-pouco-de-funcional-com-estatistica/
  136. http://nomadev.com.br/criando-array-de-forma-marota-com-es6/
- 137. http://www.felipefialho.com/blog/2016/do-zero-a-heroi-do-front-end-parte-2
+ 137. http://www.felipefialho.com/blog/2016/do-zero-a-heroi-do-front-end-parte-2 
  138. http://tableless.com.br/file-api-trabalhando-com-arquivos-locais-usando-javascript/
  139. https://medium.com/@liviamorim/porque-pela-primeira-vez-me-senti-acolhida-em-um-evento-de-tecnologia-cffc2617e772#.jqnanxygx
  140. http://tableless.com.br/file-api-trabalhando-com-arquivos-locais-usando-javascript/
