@@ -8,7 +8,7 @@
  4. Eloquent Javascript
  5. Coletânea Front-end
 
-## Artigos lidos(153)
+## Artigos lidos(154)
 
  1. https://medium.com/jedi-js/future-javascript-1-arrow-functions-f44ee4098b30#.fd784rojm
  2. https://medium.com/@adautobraz/a-universidade-matou-sua-motiva%C3%A7%C3%A3o-5bc46f4f3d8e#.yflpqc2w9
@@ -163,6 +163,7 @@
  151. https://blog.codecasts.com.br/single-page-applications-onde-vivem-e-o-que-comem-4fc9a44f3de#.mg4pdy5r5
  152. https://medium.com/@phinfonet/programa%C3%A7%C3%A3o-funcional-o-que-diabos-%C3%A9-isso-da9f230b9be2#.yku13ofv2
  153. https://medium.com/@phinfonet/o-que-aprendi-com-a-carreira-de-desenvolvedor-nos-%C3%BAltimos-anos-6c71996fbba7#.82kbyxe0o
+ 154. http://nomadev.com.br/javascript-como-usar-o-ifelse/
  
 ## Artigos escritos
 
