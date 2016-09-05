@@ -164,7 +164,7 @@
  152. https://medium.com/@phinfonet/programa%C3%A7%C3%A3o-funcional-o-que-diabos-%C3%A9-isso-da9f230b9be2#.yku13ofv2
  153. https://medium.com/@phinfonet/o-que-aprendi-com-a-carreira-de-desenvolvedor-nos-%C3%BAltimos-anos-6c71996fbba7#.82kbyxe0o
  154. http://nomadev.com.br/javascript-como-usar-o-ifelse/
- 155. http://epocanegocios.globo.com/Vida/noticia/2015/10/6-tecnicas-para-aprender-qualquer-coisa-e-nao-esquecer-mais.html
+ 155. http://epocanegocios.globo.com/Vida/noticia/2015/10/6-tecnicas-para-aprender-qualquer-coisa-e-nao-esquecer-mais.html 
  
 ## Artigos escritos
 
