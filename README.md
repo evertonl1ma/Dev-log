@@ -8,7 +8,7 @@
  4. Eloquent Javascript
  5. Coletânea Front-end
 
-## Artigos lidos(155)
+## Artigos lidos(156)
 
  1. https://medium.com/jedi-js/future-javascript-1-arrow-functions-f44ee4098b30#.fd784rojm
  2. https://medium.com/@adautobraz/a-universidade-matou-sua-motiva%C3%A7%C3%A3o-5bc46f4f3d8e#.yflpqc2w9
@@ -165,6 +165,7 @@
  153. https://medium.com/@phinfonet/o-que-aprendi-com-a-carreira-de-desenvolvedor-nos-%C3%BAltimos-anos-6c71996fbba7#.82kbyxe0o
  154. http://nomadev.com.br/javascript-como-usar-o-ifelse/
  155. http://epocanegocios.globo.com/Vida/noticia/2015/10/6-tecnicas-para-aprender-qualquer-coisa-e-nao-esquecer-mais.html 
+ 156. http://www.senhortech.com/2016/07/10-motivos-para-aprender-programar-em_13.html
  
 ## Artigos escritos
 
