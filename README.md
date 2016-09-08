@@ -8,7 +8,7 @@
  4. Eloquent Javascript
  5. Coletânea Front-end
 
-## Artigos lidos(158)
+## Artigos lidos(159)
 
  1. https://medium.com/jedi-js/future-javascript-1-arrow-functions-f44ee4098b30#.fd784rojm
  2. https://medium.com/@adautobraz/a-universidade-matou-sua-motiva%C3%A7%C3%A3o-5bc46f4f3d8e#.yflpqc2w9
@@ -168,6 +168,7 @@
  156. http://www.senhortech.com/2016/07/10-motivos-para-aprender-programar-em_13.html
  157. http://tableless.com.br/css3%E2%80%8A-%E2%80%8Atrabalhando-com-multiplas-imagens-background-images/?utm_medium=twitter
  158. https://medium.com/@thaina128/7-habitos-que-podem-tornar-voce-um-programador-mediocre-1a9849b4e65e#.s52gia79a
+ 159. https://medium.com/@fernahh/es2015-n%C3%A3o-%C3%A9-mais-opcional-9f727de1e103#.x6y22fyp5
  
 ## Artigos escritos
 
