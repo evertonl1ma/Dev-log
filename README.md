@@ -8,7 +8,7 @@
  4. Eloquent Javascript
  5. Coletânea Front-end
 
-## Artigos lidos(160)
+## Artigos lidos(161)
 
  1. https://medium.com/jedi-js/future-javascript-1-arrow-functions-f44ee4098b30#.fd784rojm
  2. https://medium.com/@adautobraz/a-universidade-matou-sua-motiva%C3%A7%C3%A3o-5bc46f4f3d8e#.yflpqc2w9
@@ -170,6 +170,7 @@
  158. https://medium.com/@thaina128/7-habitos-que-podem-tornar-voce-um-programador-mediocre-1a9849b4e65e#.s52gia79a
  159. https://medium.com/@fernahh/es2015-n%C3%A3o-%C3%A9-mais-opcional-9f727de1e103#.x6y22fyp5
  160. https://www.linkedin.com/pulse/seja-criativo-diferente-comece-agora-mateus-rosa
+ 161. https://medium.com/o-elephpant-do-chap%C3%A9u-branco/shaw-einstein-e-o-mercado-de-ti-a-s%C3%ADndrome-do-impostor-e-o-suco-de-lim%C3%A3o-56381db01d70#.yo4aryu3i
  
 ## Artigos escritos
 
