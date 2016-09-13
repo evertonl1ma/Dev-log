@@ -7,7 +7,7 @@
  3. Javascript furtivo
  4. Eloquent Javascript
  5. Coletânea Front-end
-
+    
 ## Artigos lidos(162)
 
  1. https://medium.com/jedi-js/future-javascript-1-arrow-functions-f44ee4098b30#.fd784rojm
