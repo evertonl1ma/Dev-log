@@ -20,7 +20,7 @@
  8. http://jordankobellarz.github.io/mongodb/2015/08/15/mentiras-que-lhe-contaram-sobre-o-mongodb.html
  9. http://nomadev.com.br/node-js-upload-de-imagem-arquivo/
  10. https://www.linkedin.com/pulse/por-que-voc%C3%AA-deve-parar-de-se-importar-com-o-os-outros-ana-colombia
- 11. http://www.capsaicina.com.br/novas-tecnologias-em-front-end/
+ 11. http://www.capsaicina.com.br/novas-tecnologias-em-front-end/   
  12. http://www.philippeassis.com/alert-e-confirm-personalizado-sem-jquery/#more-24
  13. https://medium.com/@_jh3y/how-to-pure-css-masonry-layouts-a8ede07ba31a#.ufb1ghu7o
  14. http://tableless.com.br/exercicios-simples-de-javascript-para-entrevista/  
