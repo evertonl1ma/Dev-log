@@ -24,7 +24,7 @@
  12. http://www.philippeassis.com/alert-e-confirm-personalizado-sem-jquery/#more-24
  13. https://medium.com/@_jh3y/how-to-pure-css-masonry-layouts-a8ede07ba31a#.ufb1ghu7o
  14. http://tableless.com.br/exercicios-simples-de-javascript-para-entrevista/  
- 15. https://medium.com/design-contaazul/simplificar-ajuda-sempre-ea17d5feb92a#.59u8fxepb
+ 15. https://medium.com/design-contaazul/simplificar-ajuda-sempre-ea17d5feb92a#.59u8fxepb  
  16. https://medium.com/@cristofersousa/full-stack-developer-como-me-tornar-um-5c9d23765461#.lusyxwrgs
  17. http://romarioregis.com/2016/01/16/tenho-uma-startup-e-o-vasp-da-classe-media/
  18. https://medium.com/@carvalho.icaro/o-que-diabos-aconteceu-com-gera%C3%A7%C3%A3o-y-73cd16ccc5c9#.jbgv2cd1u
