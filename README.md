@@ -8,7 +8,7 @@
  4. Eloquent Javascript
  5. Coletânea Front-end
     
-## Artigos lidos(163)   
+## Artigos lidos(164)   
 
  1. https://medium.com/jedi-js/future-javascript-1-arrow-functions-f44ee4098b30#.fd784rojm
  2. https://medium.com/@adautobraz/a-universidade-matou-sua-motiva%C3%A7%C3%A3o-5bc46f4f3d8e#.yflpqc2w9
@@ -173,6 +173,7 @@
  161. https://medium.com/o-elephpant-do-chap%C3%A9u-branco/shaw-einstein-e-o-mercado-de-ti-a-s%C3%ADndrome-do-impostor-e-o-suco-de-lim%C3%A3o-56381db01d70#.yo4aryu3i
  162. http://tableless.com.br/vulnerabilidades-em-sistemas-web/
  163. https://www.linkedin.com/pulse/nove-dicas-para-n%C3%A3o-ficar-depressivo-com-o-desemprego-tais-targa?trk=pulse_spock-articles
+ 164. http://dropsdejogos.com.br/index.php/noticias/cultura/item/2122-para-as-desenvolvedoras-presentes-na-spjam-machismo-ainda-e-forte-no-meio-mas-tende-a-melhorar
  
 ## Artigos escritos
 
