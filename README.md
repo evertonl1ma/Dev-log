@@ -6,7 +6,7 @@
  2. Web design responsivo - Páginas adaptáveis para todos os dispositivos
  3. Javascript furtivo
  4. Eloquent Javascript
- 5. Coletânea Front-end
+ 5. Coletânea Front-end  
        
 ## Artigos lidos(164)   
 
