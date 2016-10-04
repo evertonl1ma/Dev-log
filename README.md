@@ -8,7 +8,7 @@
  4. Eloquent Javascript
  5. Coletânea Front-end  
        
-## Artigos lidos(165)                           
+## Artigos lidos(166)                           
 
  1. https://medium.com/jedi-js/future-javascript-1-arrow-functions-f44ee4098b30#.fd784rojm   
  2. https://medium.com/@adautobraz/a-universidade-matou-sua-motiva%C3%A7%C3%A3o-5bc46f4f3d8e#.yflpqc2w9
@@ -175,6 +175,7 @@
  163. https://www.linkedin.com/pulse/nove-dicas-para-n%C3%A3o-ficar-depressivo-com-o-desemprego-tais-targa?trk=pulse_spock-articles
  164. http://dropsdejogos.com.br/index.php/noticias/cultura/item/2122-para-as-desenvolvedoras-presentes-na-spjam-machismo-ainda-e-forte-no-meio-mas-tende-a-melhorar
  165. https://medium.com/@caduHD/a-jornada-do-desenvolvedor-conquistando-o-primeiro-est%C3%A1gio-190cb3ac5665#.g75xalgng
+ 166. https://blog.frontux.com/pare-de-chutar-e-aprenda-como-funciona-o-display-inline-block-4e6cba2f19d4?gi=99549069efcf#.krd2nooqn
  
  
  
