@@ -8,7 +8,7 @@
  4. Eloquent Javascript
  5. Coletânea Front-end  
        
-## Artigos lidos(168)                                 
+## Artigos lidos(169)                                 
 
  1. https://medium.com/jedi-js/future-javascript-1-arrow-functions-f44ee4098b30#.fd784rojm   
  2. https://medium.com/@adautobraz/a-universidade-matou-sua-motiva%C3%A7%C3%A3o-5bc46f4f3d8e#.yflpqc2w9
@@ -178,6 +178,7 @@
  166. https://blog.frontux.com/pare-de-chutar-e-aprenda-como-funciona-o-display-inline-block-4e6cba2f19d4?gi=99549069efcf#.krd2nooqn
  167. http://devsamurai.com.br/formula-do-primeiro-emprego-3-passos-simples-para-trabalhar-como-programador-mesmo-se-voce-nao-tem-experiencia-nenhuma/
  168. https://medium.com/@barros_val/representatividade-importa-e0fd5672a763#.3igj9j8ou
+ 169. https://medium.com/@peofmoreira/nunca-gostei-de-javascript-at%C3%A9-conhecer-angularjs-4be0a48cd374#.zepbyqoqs
  
  
  
