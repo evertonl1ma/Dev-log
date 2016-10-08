@@ -22,7 +22,7 @@
  10. https://www.linkedin.com/pulse/por-que-voc%C3%AA-deve-parar-de-se-importar-com-o-os-outros-ana-colombia
  11. http://www.capsaicina.com.br/novas-tecnologias-em-front-end/   
  12. http://www.philippeassis.com/alert-e-confirm-personalizado-sem-jquery/#more-24
- 13. https://medium.com/@_jh3y/how-to-pure-css-masonry-layouts-a8ede07ba31a#.ufb1ghu7o
+ 13. https://medium.com/@_jh3y/how-to-pure-css-masonry-layouts-a8ede07ba31a#.ufb1ghu7o   
  14. http://tableless.com.br/exercicios-simples-de-javascript-para-entrevista/  
  15. https://medium.com/design-contaazul/simplificar-ajuda-sempre-ea17d5feb92a#.59u8fxepb  
  16. https://medium.com/@cristofersousa/full-stack-developer-como-me-tornar-um-5c9d23765461#.lusyxwrgs
