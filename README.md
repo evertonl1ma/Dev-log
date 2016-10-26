@@ -8,7 +8,7 @@
  4. Eloquent Javascript
  5. Coletânea Front-end  
        
-## Artigos lidos(170)                                                  
+## Artigos lidos(171)                                                  
     
  1. https://medium.com/jedi-js/future-javascript-1-arrow-functions-f44ee4098b30#.fd784rojm   
  2. https://medium.com/@adautobraz/a-universidade-matou-sua-motiva%C3%A7%C3%A3o-5bc46f4f3d8e#.yflpqc2w9
@@ -180,6 +180,7 @@
  168. https://medium.com/@barros_val/representatividade-importa-e0fd5672a763#.3igj9j8ou
  169. https://medium.com/@peofmoreira/nunca-gostei-de-javascript-at%C3%A9-conhecer-angularjs-4be0a48cd374#.zepbyqoqs
  170. https://codetalks.net/como-%C3%A9-programar-em-javascript-em-2016-9c9b3c12cea8#.sfcbwuszw
+ 171. http://www.administradores.com.br/artigos/carreira/5-dicas-de-se-tornar-uma-pessoa-mais-confiante/97564/
  
  
  
